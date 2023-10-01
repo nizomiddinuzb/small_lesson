@@ -1,0 +1,145 @@
+body{
+    display: flex;
+    margin: o auto;
+}
+.left_block{
+    text-align: center;
+    background-color: #5e3efb;
+    border-radius: 32px;
+    border: 1px solid #5e3efb;
+    Width:368px;
+    Height:512px;
+}
+.oval_img{
+    background-image: url(./images/Oval\ \(2\).svg);
+    background-repeat: no-repeat;
+}
+h1{
+    color:#CAC9FF;
+    font-family: Arial, Helvetica, sans-serif
+}
+.big{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.small{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #CAC9FF;
+}
+.right_block{
+    border-radius: ;
+    border: 1px solid black;
+    Width:368px;
+    Height:512px; 
+    border-radius: 0px 32px 32px 0px;
+}
+.Summary{
+    margin-top: 37px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    color: #303b59;
+    font-size: 24px;
+}
+.summaries{
+    display: flex;
+    border: 1px solid #fffbf4;
+    background-color: #fffbf4;
+    border-radius: 12px;
+    width: 288px;
+    height: 56px;
+    margin-top: 59px;
+    margin-left: 40px;
+    gap: 20px;
+}
+.bir{
+    margin-top: 12px;
+    width: 30px;
+    height: 30px;
+}
+.birr{
+    font-size: 20px;
+}
+.a{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.b{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.d{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.c{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.summariess{
+    display: flex;
+    border: 1px solid #fff6f6;
+    background-color:#fff6f6 ;
+    border-radius: 12px;
+    width: 288px;
+    height: 56px;
+    margin-top: 20px;
+    margin-left: 40px;
+    gap: 20px;
+}
+.ikki{
+    margin-top: 12px;
+    width: 30px;
+    height: 30px;
+}
+.birrr{
+    font-size: 20px;
+}
+.summariesss{
+    display: flex;
+    border: 1px solid #f2fcf9;
+    background-color: #f2fcf9;
+    border-radius: 12px;
+    width: 288px;
+    height: 56px;
+    margin-top: 20px;
+    margin-left: 40px;
+    gap: 20px;
+}
+.uch{
+    margin-top: 12px;
+    width: 30px;
+    height: 30px;
+}
+.birrrr{
+    font-size: 20px;
+}
+.summariessss{
+    display: flex;
+    border: 1px solid #f3f4fd;
+    background-color:#f3f4fd ;
+    border-radius: 12px;
+    width: 288px;
+    height: 56px;
+    margin-top: 20px;
+    margin-left: 40px;
+    gap: 20px;
+}
+.tort{
+    margin-top: 12px;
+    width: 30px;
+    height: 30px;
+}
+.birrrrr{
+    font-size: 20px;
+}
+button{
+    cursor: pointer;
+    width: 288px;
+    height: 56px;
+    border: 1px solid #303B59;
+    background-color: #303B59;
+    margin-left: 40px;
+    margin-top: 30px;
+    border-radius: 30px;
+}
